@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 É necessário também que você crie um arquivo `.env` com as credenciais da API:
 
-````
+```
 OPENAI_API_KEY=<Chave da API>
 OPENAI_ORGANIZATION=<Nome da organização>
 ```
