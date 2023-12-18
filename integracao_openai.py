@@ -1,9 +1,10 @@
 from openai import OpenAI
 import dotenv
 
+dotenv.load_dotenv()
 client = OpenAI()
 
-client.chat.completions.create(
+resposta = client.chat.completions.create(
     model = "gpt-3.5-turbo-16k",
     messages = [
         {
@@ -16,3 +17,5 @@ client.chat.completions.create(
         }
     ]
 )
+
+print(resposta.choices[0].message.content)
