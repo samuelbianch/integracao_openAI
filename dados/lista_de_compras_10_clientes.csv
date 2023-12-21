@@ -1,0 +1,23 @@
+Nome,Produto,Quantidade,Preço Unitário
+Cliente1,Arroz,2,5.99
+Cliente1,Feijão,3,3.49
+Cliente1,Leite,1,2.99
+Cliente2,Macarrão,4,1.99
+Cliente2,Molho de Tomate,2,2.49
+Cliente3,Café,1,4.99
+Cliente3,Açúcar,1,2.29
+Cliente3,Pão,3,1.49
+Cliente4,Frango,2,7.99
+Cliente4,Batata,5,0.99
+Cliente5,Óleo de Cozinha,1,6.49
+Cliente5,Sabonete,2,1.79
+Cliente6,Detergente,3,2.29
+Cliente6,Esponja de Cozinha,1,0.99
+Cliente7,Queijo,1,8.99
+Cliente7,Presunto,1,5.49
+Cliente8,Yogurte,2,3.29
+Cliente8,Granola,1,4.99
+Cliente9,Maçã,4,1.49
+Cliente9,Uva,1,3.99
+Cliente10,Limão,3,0.79
+Cliente10,Cenoura,2,1.29
